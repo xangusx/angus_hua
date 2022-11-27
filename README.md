@@ -1,4 +1,3 @@
-# angus_hua
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=angus_hua&show_icons=true&theme=dark"
